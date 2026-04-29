@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-mytxfj.biggamingwin.online/sitemap.xml
